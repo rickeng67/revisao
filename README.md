@@ -7,4 +7,4 @@
 <p align='center'>Para mais informações, entre em contato comigo por meio das seguintes redes sociais:</p>
 <p align='center'>E-mail: rickeng67@gmail.com</p>
 
-# revisao
+# Python
